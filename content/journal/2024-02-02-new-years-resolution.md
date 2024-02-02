@@ -1,12 +1,9 @@
 +++
 title = "New year New me!"
 +++
-
-## Finally
-
 Now that the blog is finally ready to use, it's time to set some goals for the new year (although a bit late), so let's get to the point
 
-> ## 2024 Goals
+## 2024 Goals
 - Learn Rust
 - Become better at Cpp
 - Read more books 📚
